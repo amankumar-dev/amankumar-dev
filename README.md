@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Tailwind, Reactjs, DSA ,and more**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-omega-two.vercel.app/](https://myportfolio-omega-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-phi-six-60.vercel.app/)
 
 - 💬 Ask me about **HTML,CSS,Js,C++,C**
 
